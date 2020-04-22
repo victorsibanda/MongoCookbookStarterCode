@@ -9,6 +9,9 @@ The purpose of this Cookbook is to download MongoDB. The cookbook sets up the co
 
 Chef is a configuration management tool which allows you to provision files for installation. Whilst being infrastructure agnostic. Chef allows machine setup on physical machine, in the cloud and virtual machines. Which means all the files will be on the system when you boot it up.
 
+## Clone
+
+`git clone git@github.com:victorsibanda/MongoCookbookStarterCode.git`
 
 ## List of What is Installed
 - MongoDB from Source
